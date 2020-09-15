@@ -1,4 +1,4 @@
-# [online-shop](https://online-shop-v1-hlntbal35.vercel.app/)
+# [online-shop](https://online-shop-v1.vercel.app/)
 
 ## Запуск в режиме разработки
 
