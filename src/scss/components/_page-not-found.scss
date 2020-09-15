@@ -1,0 +1,23 @@
+.page-not-found {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    margin-bottom: 15px;
+  }
+  img {
+    width: 350px;
+  }
+  @media (max-width: 991px) {
+    img {
+      width: 300px;
+    }
+  }
+  @media (max-width: 480px) {
+    img {
+      width: 250px;
+    }
+  }
+}
